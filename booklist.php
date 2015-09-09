@@ -1,11 +1,9 @@
 <?php
-	$PAGE_TITLE = 'Home';
+	$PAGE_TITLE = 'Booklist';
 	include "template/header.php";
 ?>
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 
-This is my home page.
 
- 
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 <?php include "template/footer.php"; ?>

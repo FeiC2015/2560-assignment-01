@@ -1,9 +1,21 @@
 <?php
-	$PAGE_TITLE = 'Home page';
+	$PAGE_TITLE = 'Home';
+	include "template/header.php";
 ?>
+<!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 
-<?php include "template/header.php"; ?>
+<h1> HOME </h1>
 
-insert text here 
+<ul>
+	<li><a href="#home">HOME</a></li>
+	<li><a href="#education">EDUCATION</a></li> 
+	<li><a href="#booklist">BOOKLIST</a></li> 
+	<li><a href="#dream">DREAM</a></li> 
+	<li><a href="#contact">CONTACT</a></li> 
+</ul>
 
+
+<img src="img/home-fei.jpg" />
+
+<!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 <?php include "template/footer.php"; ?>
