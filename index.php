@@ -7,11 +7,11 @@
 <h1> HOME </h1>
 
 <ul>
-	<li><a href="#home">HOME</a></li>
-	<li><a href="#education">EDUCATION</a></li> 
-	<li><a href="#booklist">BOOKLIST</a></li> 
-	<li><a href="#dream">DREAM</a></li> 
-	<li><a href="#contact">CONTACT</a></li> 
+	<li><a href="#home">Home</a></li>
+	<li><a href="#education">Education</a></li> 
+	<li><a href="#booklist">Booklist</a></li> 
+	<li><a href="#dream">Dream</a></li> 
+	<li><a href="#contact">Contact</a></li> 
 </ul>
 
 
