@@ -26,5 +26,3 @@
 	navItem('booklist.php', 'Booklist');
 
 ?></ul>
-		
-	

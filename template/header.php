@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css"></link>
 		<link rel="stylesheet" href="css/bootstrap-theme.min.css"></link>
 		<link rel="stylesheet" href="css/style.css"></link>
-		
+		<link rel="stylesheet" href="css/font-awesome.min.css"></link>
 	</head>
 	<body>
 

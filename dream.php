@@ -5,23 +5,16 @@
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 
 <div class="row">
-	<div class="col-sm-1"></div>
-	<div class="col-sm-10"><p>10 Things Must Do In A Lifetime</p></div>
+	<div class="col-sm-10 col-sm-offset-1">
+		<h3>10 Things Must Do In A Lifetime</h3>
+	
+		<ul class="fa-ul">
+			<li><i class="fa-li fa fa-check-square"></i> Visit Island Canary</li>
+			<li><i class="fa-li fa fa-check-square"></i> blah blah blah</li>			
+		</ul>
+		
+	</div>
 </div>
 
-<div class="row">
-	<div class="col-sm-1"></div>
-	<div class="col-sm-10"><p>Visit Island Canary</p></div>
-</div>
-
-<div class="row">
-	<div class="col-sm-1"></div>
-	<div class="col-sm-10"><p>blah blah blah</p></div>
-</div>
-
-<div class="row">
-	<div class="col-sm-1"></div>
-	<div class="col-sm-10"><p>blah blah blah</p></div>
-</div>
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 <?php include "template/footer.php"; ?>
