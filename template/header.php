@@ -11,7 +11,11 @@
 	</head>
 	<body>
 
-		<h1><?php echo $PAGE_TITLE; ?></h1>
+		<div class="row">
+			<div class="col-sm-1"></div>
+			<div class="col-sm-10"><h1><?php echo $PAGE_TITLE; ?></h1></div>
+			<div class="col-sm-1"></div>
+		</div>
 <?php
 	include "template/navbar.php";
 ?>
