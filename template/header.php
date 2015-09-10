@@ -10,7 +10,8 @@
 		
 	</head>
 	<body>
-		
+
+		<h1><?php echo $PAGE_TITLE; ?></h1>
 <?php
 	include "template/navbar.php";
 ?>
