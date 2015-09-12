@@ -23,6 +23,6 @@
 	navItem('contact.php', 'Contact');
 	navItem('education.php', 'Education');
 	navItem('dream.php', 'Dream');
-	navItem('booklist.php', 'Booklist');
+	navItem('reading.php', 'Reading');
 
 ?></ul>
