@@ -5,8 +5,43 @@ body {
 #map {
         width: 500px;
         height: 400px;
-      }
+      }ß
 
 ol {
 	list-style-type: lower-latin
+}
+
+.borderspace {
+	margin-top: 30px;
+	margin-bottom: 150px;
+	/*border: 2px solid grey;*/
+}
+
+.me {
+	border-radius: 5px;
+	border: 1px solid #333;
+}
+
+.img {
+	border-radius: 10000px;
+	border: 1px solid #333;
+}
+
+.title2{
+	font-size: 25px;
+	font-family: "Time New Roman", Times, serif;
+	font-style: normal;
+	color: #337ab7;
+}
+
+.booklist{
+	font-size: 15px;
+	font-family: "Time New Roman", Times, serif;
+	font-style: italic;
+}
+
+.time {
+	position: fixed;
+	bottom: 0;
+	right: 0;
 }

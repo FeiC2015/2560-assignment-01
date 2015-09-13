@@ -38,5 +38,8 @@
 
 <br/>
 
+<div class="row col-sm-offset-1 time">
+	<p id="date"></p>
+</div>
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 <?php include "template/footer.php"; ?>
