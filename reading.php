@@ -10,7 +10,10 @@
 <br/>
 
 <div class="row">
-	<div class="col-sm-10 col-sm-offset-2">
+	<div class="col-sm-3 col-sm-offset-1">
+		<img src="img/george_r_r_martin.jpg" />
+	</div>
+	<div class="col-sm-10 col-sm-offset-4">
 		<h4>George R. R. Martin</h4>
 		<ul>
 			<li>Fevre Dream</li>
@@ -20,7 +23,10 @@
 </div>
 
 <div class="row">
-	<div class="col-sm-10 col-sm-offset-2">
+	<div class="col-sm-3 col-sm-offset-1">
+		<img src="img/sanmao.jpg" />
+	</div>
+	<div class="col-sm-10 col-sm-offset-4">
 		<h4>Sanmao (Echo) </h4>
 		<ul>
 			<li>Tender Night</li>
@@ -31,7 +37,10 @@
 </div>
 
 <div class="row">
-	<div class="col-sm-10 col-sm-offset-2">
+	<div class="col-sm-3 col-sm-offset-1">
+		<img src="img/ernest_hemingway.jpg" />
+	</div>
+	<div class="col-sm-10 col-sm-offset-4">
 		<h4>Ernest Miller Hemingway</h4>
 		<ul>
 			<li>The Sun Also Rises</li>

@@ -2,6 +2,11 @@ body {
 	
 }
 
+#map {
+        width: 500px;
+        height: 400px;
+      }
+
 ol {
 	list-style-type: lower-latin
 }

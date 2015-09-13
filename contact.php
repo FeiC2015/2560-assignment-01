@@ -5,6 +5,9 @@
 <!-- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -=- -->
 
 
+<div id="map"></div>
+
+
 <address class="row">
 	<div class="col-sm-7 col-sm-offset-5">
 		<h4>Address</h4>
